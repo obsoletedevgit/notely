@@ -1,6 +1,7 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # Notely
+## This is an archive, my new project is notes https://github.com/obsoletedevgit/notes
 
 ## A lightweight notetaking app built in HTML, CSS and JS
 
